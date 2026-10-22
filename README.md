@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="baespy — FiveM resources & game interfaces. Build. Learn. Repeat." width="100%" />
-</p>
-
-<p align="center">
   I work on FiveM resources and the interfaces around them.<br />
   Learning through small projects, experiments, and everyday fixes.
 </p>
