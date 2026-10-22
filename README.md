@@ -58,6 +58,7 @@ a clearer menu, or a small tool that makes working on a server easier.
 | :--- | :--- |
 | **[infrontofx-skill ↗](https://github.com/baespy/infrontofx-skill)** | Conventions, references, and templates for working on FiveM Lua and NUI/DUI with coding agents. |
 | **Focus** | A consistent starting point for resources and interfaces. |
+| **[infrontofx-fivem ↗](https://github.com/baespy/infrontofx-fivem)** | A local FiveM MCP and realtime telemetry tools built around the same conventions. Currently a development release. |
 
 <br />
 
