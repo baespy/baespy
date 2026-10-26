@@ -1,7 +1,7 @@
 <h1 align="center">baespy</h1>
 
 <p align="center">
-  Backend development · FiveM resources · Game interfaces
+  FiveM resources · Game interfaces · Useful tools
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## About
 
-I work on FiveM resources, backend logic, and the interfaces that connect them.
+I build and improve FiveM resources, game interfaces, and tools for everyday use.
 I enjoy building useful features and tools, understanding existing code, and
 working through problems that show up in everyday use.
 
@@ -34,7 +34,7 @@ check the result, and improve from there.
 
 Tools I use across projects, with FiveM and Lua as my main focus.
 
-**Backend & scripting**
+**Languages & scripting**
 
 <p>
   <img src="assets/icons/lua.svg" width="42" height="42" alt="Lua" title="Lua" />
