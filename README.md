@@ -6,7 +6,7 @@
 <p align="center">
   <a href="#about">About</a> &nbsp; · &nbsp;
   <a href="#toolbox">Toolbox</a> &nbsp; · &nbsp;
-  <a href="#project">Project</a>
+  <a href="#selected-work">Selected Work</a>
 </p>
 
 <br />
@@ -78,13 +78,27 @@ and learn from what worked and what didn't.
 
 <br />
 
-### Project
+### Selected Work
 
-| &nbsp; | &nbsp; |
-| :--- | :--- |
-| **[infrontofx-skill ↗](https://github.com/baespy/infrontofx-skill)** | Conventions, references, and templates for working on FiveM Lua and NUI/DUI with coding agents. |
-| **Focus** | A consistent starting point for resources and interfaces. |
-| **[infrontofx-fivem ↗](https://github.com/baespy/infrontofx-fivem)** | Tools for writing, debugging, and reviewing FiveM resources, connected to the same skill. Currently a development release. |
+#### FiveM Resource Development
+
+Developed and improved FiveM resources using Lua and MySQL, focusing on
+server-side logic, data handling, and connecting resources. Learned through
+practical work on servers with 1,000+ players.
+
+#### Performance & Memory Troubleshooting
+
+Worked on reducing resource usage measured through resmon and fixing
+model-related memory leaks. Took a step-by-step approach: investigate the
+issue, try a fix, and compare the results.
+
+#### infrontofx — Development Tools & References
+
+Created **[infrontofx-skill ↗](https://github.com/baespy/infrontofx-skill)** and
+**[infrontofx-fivem ↗](https://github.com/baespy/infrontofx-fivem)** to organize
+development conventions, examples, and tools for writing, debugging, and
+reviewing FiveM resources. These projects continue to evolve as I learn from
+everyday development.
 
 <br />
 
