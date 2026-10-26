@@ -27,6 +27,11 @@ a clearer menu, backend logic, or a small tool that makes working on a server ea
 I work with Lua, Python, C++, and C# for backend and server-side development,
 alongside JavaScript, HTML, and CSS for interfaces.
 
+I also use MySQL and MongoDB for application data, and Nginx for serving sites
+and setting up reverse proxies. I'm comfortable working with these tools and
+keep learning more about database queries, configuration, and troubleshooting
+as each project brings up something new.
+
 I've worked on FiveM servers with 1,000+ players, learning from the problems
 that come up when a server gets busy. My work has included reducing resource
 usage in resmon and tracking down and fixing memory leaks related to models
@@ -51,6 +56,14 @@ and learn from what worked and what didn't.
   <img src="https://img.shields.io/badge/HTML-161b22?style=flat-square&amp;logo=html5&amp;logoColor=e88c67" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-161b22?style=flat-square&amp;logo=css&amp;logoColor=7cb7ff" alt="CSS" />
   <img src="https://img.shields.io/badge/etc.-161b22?style=flat-square" alt="etc." />
+</p>
+
+<sub>Databases & server tools</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-161b22?style=flat-square&amp;logo=mysql&amp;logoColor=7cb7ff" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-161b22?style=flat-square&amp;logo=mongodb&amp;logoColor=47a248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Nginx-161b22?style=flat-square&amp;logo=nginx&amp;logoColor=42b883" alt="Nginx" />
 </p>
 
 <sub>For interfaces</sub>
